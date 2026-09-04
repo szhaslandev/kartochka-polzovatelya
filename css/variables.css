@@ -1,0 +1,15 @@
+:root {
+  --color-light: #f3f4f6;
+  --color-gray: #9ca3af;
+  --color-dark: #1a1d22;
+  --color-accent: #00447c;
+
+  --border: 1px solid var(--color-gray);
+
+  --border-radius: 20px;
+  --border-radius-small: 10px;
+
+  --font-family-base: 'Inter', sans-serif;
+
+  --transition-duration: 0.2s;
+}
