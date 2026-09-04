@@ -1,7 +1,10 @@
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: var(--font-family-base);
   font-weight: 400;
   font-size: 14px;
   color: var(--color-light);
-  background-color: #1e1e1e;
+  background-color: var(--color-dark-alt);
 }

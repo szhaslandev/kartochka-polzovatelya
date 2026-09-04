@@ -1,0 +1,31 @@
+.user-card {
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+  padding: 16px 24px 16px 16px;
+  background-color: var(--color-dark);
+  border: var(--border);
+  border-radius: var(--border-radius);
+}
+
+.user-card__image {
+  border-radius: 50%;
+}
+
+.user-card__content {
+  display: grid;
+  row-gap: 12px;
+}
+
+.user-card__body {
+  display: grid;
+  row-gap: 4px;
+}
+
+.user-card__name {
+  font-size: 20px;
+}
+
+.user-card__role {
+  color: var(--color-gray);
+}
