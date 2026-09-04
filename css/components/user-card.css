@@ -29,3 +29,7 @@
 .user-card__role {
   color: var(--color-gray);
 }
+
+.user-card__button {
+  justify-self: start;
+}

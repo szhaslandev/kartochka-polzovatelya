@@ -3,4 +3,5 @@
 @import 'base/variables.css';
 @import 'base/globals.css';
 
+@import 'components/button.css';
 @import 'components/user-card.css';
